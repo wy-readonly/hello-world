@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository.
-I make an updation now.
+It will be a good start for work with github.
